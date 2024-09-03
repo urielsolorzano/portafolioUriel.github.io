@@ -25,12 +25,13 @@ function efectoHabilidades(){
         habilidades[1].classList.add("htmlcss");
         habilidades[2].classList.add("PHP");
         habilidades[3].classList.add("python");
-        habilidades[4].classList.add("comunicacion");
-        habilidades[5].classList.add("trabajo");
-        habilidades[6].classList.add("adaptabilidad");
-        habilidades[7].classList.add("dedicacion");
-        habilidades[8].classList.add("Comunicacionefectiva");
-        habilidades[9].classList.add("proactivo");
+        habilidades[4].classList.add("SQL");
+        habilidades[5].classList.add("comunicacion");
+        habilidades[6].classList.add("trabajo");
+        habilidades[7].classList.add("adaptabilidad");
+        habilidades[8].classList.add("dedicacion");
+        habilidades[9].classList.add("Comunicacionefectiva");
+        habilidades[10].classList.add("proactivo");
     }
 }
 
