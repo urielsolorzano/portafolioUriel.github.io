@@ -534,6 +534,15 @@ html{
     margin-bottom: 0px;
 }
 
+
+.portfolio .galeria .proyecto .overlay a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 20px;
+    transition: 1s;
+}
+
+
 /* SECCION CONTACTO */
 .contacto{
     background-image: url(img/contact_bg.png);
